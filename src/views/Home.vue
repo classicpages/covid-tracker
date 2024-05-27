@@ -22,9 +22,9 @@
 </template>
 
 <script>
-import CountrySelect from '@/components/CountrySelect'
-import DataBoxes from '@/components/DataBoxes'
-import DataTitle from '@/components/DataTitle'
+import CountrySelect from '.src/components/CountrySelect'
+import DataBoxes from '.src/components/DataBoxes'
+import DataTitle from '.src/components/DataTitle'
 import { ref } from 'vue'
 
 export default {
